@@ -1,2 +1,2 @@
 # conflicts
-Hello Git!
+this is for creating a merge conflict
